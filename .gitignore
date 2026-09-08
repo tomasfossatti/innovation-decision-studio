@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Local environment files
+.env*
+!.env.example
+
+# TypeScript and test artifacts
+*.tsbuildinfo
+artifacts/
+coverage/
+
+# Logs and local editor files
+*.log
+.DS_Store
+.idea/
+.vscode/
